@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ConvolutionalNN", "ConvolutionalNN\ConvolutionalNN.pyproj", "{4C6FE3A1-50CD-4491-8E16-BDAF5F18D4B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6FE3A1-50CD-4491-8E16-BDAF5F18D4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6FE3A1-50CD-4491-8E16-BDAF5F18D4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7990001-D7DC-43CB-9E5F-BE936540EF87}
+	EndGlobalSection
+EndGlobal
